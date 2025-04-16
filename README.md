@@ -1,5 +1,5 @@
 
-<img height="350px" src ="https://github.com/AnandAshish01/AnandAshish01/blob/main/Screenshot%202025-04-16%20112458.png">
+<img height="300px" src ="https://github.com/AnandAshish01/AnandAshish01/blob/main/Screenshot%202025-04-16%20112458.png">
 <h1 align="center">Hi 👋, I'm Ashish Anand</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
